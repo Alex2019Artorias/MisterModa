@@ -1,0 +1,8 @@
+{
+  "name": "mistermoda.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Alex2019Artorias/MisterModa.git",
+  "author": "Alex2019Artorias <2019.alex.kim@gmail.com>",
+  "license": "MIT"
+}
